@@ -9,8 +9,7 @@ import {
   LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
   BarChart, Bar,
 } from "recharts";
-import { createClient } from "https://esm.sh/@supabase/supabase-js@2";
-
+import { createClient } from "@supabase/supabase-js";
 // ============================================================
 // SUPABASE
 // ============================================================
